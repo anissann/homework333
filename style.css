@@ -1,0 +1,182 @@
+.body {
+    background-color: #ebe4db;
+}
+
+.header {
+    background-image: url(https://www.readyseteat.com/sites/g/files/qyyrlu501/files/images/article/hero/BARISTA-STYLE-COFFEE-HERO.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-family: "Lilita One", sans-serif;
+    margin-bottom: 250px;
+    font-size: 60px;
+    color: rgb(25, 6, 6);
+}
+
+.whitebg {
+    background-color: white;
+}
+
+.roasting h3 {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 24px;
+text-align: center;
+margin-top: 30px;
+color: rgb(71, 19, 19);
+}
+ 
+.roasting p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    color: #9db265;
+}
+
+.whitebg {
+    margin-top: 30px;
+    padding-top: 40px;
+}
+
+.green {
+    background-color: #9ac29d;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.green h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    color: white;
+}
+
+.green h5 {
+    font-family: Helvetica;
+    font-size: 13px;
+    color: white;
+}
+
+.green p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: white;
+}
+
+.light {
+    background-color: #a96244;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.light h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    color: white;
+}
+
+.light h5 {
+    font-family: Helvetica;
+    font-size: 13px;
+    color: white;
+}
+
+.light p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: white;
+}
+
+.city {
+    background-color: #7c3e21;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.city h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    color: white;
+}
+
+.city h5 {
+    font-family: Helvetica;
+    font-size: 13px;
+    color: white;
+}
+
+.city p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: white;
+}
+
+.vienna {
+    background-color: #ae403a;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.vienna h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    color: white;
+}
+
+.vienna h5 {
+    font-family: Helvetica;
+    font-size: 13px;
+    color: white;
+}
+
+.vienna p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: white;
+}
+
+.italian {
+    background-color: #000000;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.italian h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    color: white;
+}
+
+.italian h5 {
+    font-family: Helvetica;
+    font-size: 13px;
+    color: white;
+}
+
+.italian p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    color: white;
+}
+
+
+ul li h2 { 
+    color: rgb(214, 168, 106);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    color: #253d1e;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul li p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
